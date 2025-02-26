@@ -11,5 +11,7 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
 
+TBD (tile maps, levels, enemies, etc?)
+
 ## Created by
-Nathan Mishler
+Izzy Holmes
