@@ -1,7 +1,7 @@
 # Exercise04a-StateMachines
 
 ## Implementation
-Which features you included.
+Added a standing, walking, and jumping animation to our platformer character.
 
 ## References
 
